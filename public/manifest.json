@@ -1,0 +1,15 @@
+{
+  "name": "Horse and Riders Companion",
+  "scope": "./",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#596475",
+  "background_color": "#424242",
+
+    "icons": [{
+    "src": "bower_components/assets/horse_sheild_logo_94x94.png",
+    "sizes": "94x94",
+    "type": "image/png"
+  }]
+}
